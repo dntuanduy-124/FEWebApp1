@@ -1,0 +1,67 @@
+﻿body {
+    margin:0px;
+    border:none;
+}
+
+.top-menu{
+    background-color:darkgray;
+    width:100%;
+    height:50px;
+    padding:5px;
+}
+#header1{
+    width:15%;
+    float:left;
+}
+img {
+    width: 80px;
+    height: 75px;
+    object-fit: scale-down;
+    /*float:inherit*/
+}
+#mainMenu ul{
+    list-style-type:none;
+}
+#mainMenu li {
+    display:inline;
+
+}
+#header2 {
+    width: 25%;
+    float: right;
+    color:white;
+}
+section{
+    
+}
+nav {
+    width: 60%;
+    float: left;
+}
+.main-ccontent {
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    padding: 5px;
+}
+
+.NewsRegister {
+    background-color: lightgreen;
+    width: 100%;
+    height: 150px;
+    padding: 5px;
+}
+.form {
+    <form action="https://httpbin.org/anything" method="post"> 
+    <label for="name">Đăng ký nhận tin từ ShopDunk Thông tin sản phẩm mới nhất và chương trình khuyến mãi:</label> <br>
+    <input id="name" name="name" type="text" value=""><br> 
+        </form>
+}
+
+
+.footer {
+    background-color: black;
+    width: 100%;
+    height: 250px;
+    padding: 5px;
+}
